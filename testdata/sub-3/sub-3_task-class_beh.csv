@@ -1,0 +1,16 @@
+﻿SubjectID,TrialNum,StimulusID,TrialType,Response,ReactionTime
+3,1,b04,bird,cat,0.3250
+3,2,b02,bird,cat,0.6124
+3,3,c01,cat,cat,0.6070
+3,4,c04,cat,cat,0.1194
+3,5,b05,bird,bird,0.9246
+3,6,c05,cat,cat,0.4415
+3,7,d05,dog,cat,0.2940
+3,8,d02,dog,cat,0.1185
+3,9,b01,bird,bird,0.7199
+3,10,d03,dog,dog,0.7446
+3,11,c03,cat,cat,0.7201
+3,12,c02,cat,cat,0.4911
+3,13,b03,bird,bird,0.9483
+3,14,d01,dog,dog,0.4534
+3,15,d04,dog,dog,0.5244
