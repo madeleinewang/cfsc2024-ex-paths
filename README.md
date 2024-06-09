@@ -1,8 +1,7 @@
 # cfsc2024-ex-paths
 
-### Summary
 
-This repo is part of an exercise for the Brown University **2024 Computational Fluency Short Course**, for practice with file paths and directory trees.
+This repo is part of an exercise for the Brown University [2024 Computational Fluency Short Course](https://github.com/brownritt/cfsc2024), for practice with file paths and directory trees.
 
 It is provided for solely educational purposes. Use at your own risk; no express or implied warrantees are given.
 
